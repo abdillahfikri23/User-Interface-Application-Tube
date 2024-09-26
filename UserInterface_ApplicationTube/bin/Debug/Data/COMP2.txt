@@ -1,0 +1,14 @@
+Shift: 1ST
+Start - Finish: 12:00 - 14:00
+Jig: B
+DONE BY: Farhan
+Serial Number: 24242532
+GS Reading: 1363
+DUT 1: 1361
+DUT 2: 1361
+DUT 3: 1363
+Average VTobj : System.Windows.Forms.TextBox, Text: 1362
+DV: System.Windows.Forms.TextBox, Text: -1
+Range: 2
+MCH Offset (NEW): 1363
+MCH Offset (OLD): 1362

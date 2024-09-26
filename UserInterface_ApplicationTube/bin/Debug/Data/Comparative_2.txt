@@ -1,0 +1,5 @@
+Shift: 1ST
+Start - Finish: 12:00 - 14:00
+Jig: A
+DONE BY: Fikri
+Serial Number: 12132

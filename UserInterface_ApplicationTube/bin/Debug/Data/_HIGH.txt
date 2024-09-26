@@ -1,0 +1,33 @@
+------------------------------HIGH-------------------------------
+Shift: 
+Start - Finish: 
+Jig: 
+DONE BY: 
+Serial Number: 
+GS Reading: 
+DUT 1: 1365
+DUT 2: 
+DUT 3: 
+Average VTobj : 
+DV: 
+Range: 
+MCH Offset (NEW): 
+MCH Offset (OLD): 
+----------------------------------------------------------------
+
+------------------------------LOW-------------------------------
+Shift: 
+Start - Finish: 
+Jig: 
+DONE BY: 
+Serial Number: 
+GS Reading: 
+DUT 1: 
+DUT 2: 
+DUT 3: 
+Average VTobj : 
+DV: 
+Range: 
+MCH Offset (NEW): 
+MCH Offset (OLD): 
+----------------------------------------------------------------

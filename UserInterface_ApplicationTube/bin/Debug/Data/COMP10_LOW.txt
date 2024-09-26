@@ -1,0 +1,33 @@
+------------------------------HIGH-------------------------------
+Shift: 1ST
+Start - Finish: 14:00 - 17:00
+Jig: A
+DONE BY: Fikri
+Serial Number: 34112
+GS Reading: 1363
+DUT 1: 1364
+DUT 2: 1364
+DUT 3: 1363
+Average VTobj : 1364
+DV: 1
+Range: 1
+MCH Offset (NEW): 1360
+MCH Offset (OLD): 1361
+----------------------------------------------------------------
+
+------------------------------LOW-------------------------------
+Shift: 1ST
+Start - Finish: 14:00 - 17:00
+Jig: A
+DONE BY: Fikri
+Serial Number: 34112
+GS Reading: 1363
+DUT 1: 1364
+DUT 2: 1363
+DUT 3: 1364
+Average VTobj : 1364
+DV: 1
+Range: 1
+MCH Offset (NEW): 1362
+MCH Offset (OLD): 1363
+----------------------------------------------------------------

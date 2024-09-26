@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Tester_UserInterface.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Tester_UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Tester_UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Tester_UserInterface.csproj.GenerateResource.Cache
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Calibration.resources
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ApplicationTube.resources
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\Tester_UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\WindowsFormsApplication2.Calibration.resources
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\WindowsFormsApplication2.ApplicationTube.resources
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\Tester_UserInterface.csproj.GenerateResource.Cache
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\Tester_UserInterface.csproj.ResolveComReference.cache
+C:\Users\Intern.AFikri\OneDrive - Excelitas Technologies Corp\Pictures\BACKUP\HIGH dan LOW APP TUBE\obj\Debug\WindowsFormsApplication2.DataSql.resources

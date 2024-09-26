@@ -1,0 +1,14 @@
+Shift: 1ST
+Start - Finish: 12:00 - 15:00
+Jig: A
+DONE BY: Fikri
+Serial Number: 24432
+GS Reading: 1380
+DUT 1: 1379
+DUT 2: 1378
+DUT 3: 1378
+Average VTobj : System.Windows.Forms.TextBox, Text: 1378
+DV: System.Windows.Forms.TextBox, Text: -2
+Range: 1
+MCH Offset (NEW): 1334
+MCH Offset (OLD): 1332

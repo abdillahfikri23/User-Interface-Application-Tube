@@ -1,0 +1,14 @@
+Shift: 1ST
+Start - Finish: 07:00 - 12:00
+Jig: A
+DONE BY: Fikri
+Serial Number: 33535
+GS Reading: 1361
+DUT 1: 1361
+DUT 2: 1360
+DUT 3: 1361
+Average VTobj : System.Windows.Forms.TextBox, Text: 1361
+DV: System.Windows.Forms.TextBox, Text: 0
+Range: 1
+MCH Offset (NEW): 1360
+MCH Offset (OLD): 1360

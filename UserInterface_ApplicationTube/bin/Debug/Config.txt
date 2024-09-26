@@ -1,0 +1,53 @@
+Device = 6311
+DV = 6
+Range = 20
+TempHigh = 160
+TempLow = 25
+
+Device = 6312
+DV = 5
+Range = 20
+TempHigh = 180
+TempLow = 25
+
+Device = 6313
+DV = 5
+Range = 20
+TempHigh = 80
+TempLow = 25
+
+Device = 6314
+DV = 5
+Range = 20
+TempHigh = 40
+TempLow = 25
+
+Device = 6315
+DV = 5
+Range = 20
+TempHigh = 40
+TempLow = 25
+
+Device = 6316
+DV = 5
+Range = 20
+TempHigh = 100
+TempLow = 25
+
+Device = 6317
+DV = 5
+Range = 20
+TempHigh = 40
+TempLow = 25
+
+Device = 6318
+DV = 5
+Range = 20
+TempHigh = 180
+TempLow = 25
+
+Device = 6319
+DV = 5
+Range = 20
+TempHigh = 160
+TempLow = 25

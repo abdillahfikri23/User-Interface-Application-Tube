@@ -1,0 +1,33 @@
+------------------------------HIGH-------------------------------
+Sample: DUT 3
+Shift: 1ST
+Start - Finish: 12:00 - 13:00
+Jig: A
+DONE BY: Fikri
+Serial Number: 12421
+GS Reading: 1363
+DUT 1: 1363
+DUT 2: 1364
+DUT 3: 1362
+Average VTobj : 1363
+DV: 0
+Range: 2
+MCH Offset (NEW): 1363
+MCH Offset (OLD): 1363
+
+------------------------------LOW-------------------------------
+Sample: DUT 3
+Shift: 1ST
+Start - Finish: 12:00 - 13:00
+Jig: A
+DONE BY: Fikri
+Serial Number: 12421
+GS Reading: 1364
+DUT 1: 1363
+DUT 2: 1362
+DUT 3: 1364
+Average VTobj : 1363
+DV: -1
+Range: 2
+MCH Offset (NEW): 1365
+MCH Offset (OLD): 1364
